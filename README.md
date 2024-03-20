@@ -36,7 +36,7 @@ Click **Start Live**:
  
 <img width="173" alt="yi6" src="https://github.com/Einar-Vaagland/yi_action_cam_rtsp_fullhd/assets/163604084/06449370-ffa4-46b1-833c-9d019e2a1487">
 
-The app generates a **QR code** the camera can scan:
+The app generates a **QR code** for the camera to scan:
  
 <img width="173" alt="yi7" src="https://github.com/Einar-Vaagland/yi_action_cam_rtsp_fullhd/assets/163604084/24d90e1a-0b6b-481b-90a2-506c6f85dce2">
 
