@@ -7,7 +7,7 @@ making it available to VLC or any other app using RTSP. Here’s how to do it.
 
 ## 1: On the phone 
 
-Download, install and run [Yi Action Camera](https://www.xiaoyi.com/yi_action_camera/download_en.html) on your phone:
+Download, install and run [Yi Action Camera](https://www.xiaoyi.com/yi_action_camera/download_en.html) on the phone:
  
 <img width="217" alt="yi1" src="https://github.com/Einar-Vaagland/yi_action_cam_rtsp_fullhd/assets/163604084/fc0439ef-21ca-497d-9e61-118e2fd4ab01">
  
@@ -23,7 +23,7 @@ In the setup, enter these settings:
 
 **Live description**: Write anything, like **Yi**.
 
-**Network for Live**: The **name** and **password** of your WiFi network.
+**Network for Live**: The **name** and **password** of the WiFi network.
 
 **Live plattform**: Choose **Other** and write any web address, like **127.0.0.1**
  
@@ -60,9 +60,9 @@ And when it fails to connect to a live server, the **setup is complete**.
 
 The camera is now connected to the WiFi network, let’s **find the ip address**. 
 
-## 3: On the PC 
+## 3: On the computer 
 
-Download, install and run [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) on your computer:
+Download, install and run [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) on the computer:
   
 <img width="266" alt="yi12" src="https://github.com/Einar-Vaagland/yi_action_cam_rtsp_fullhd/assets/163604084/61435d47-9adc-412d-8ec4-de04a905cfe7">
 
@@ -80,7 +80,7 @@ In this example we want the ip address **192.168.1.44**.
 
 Now we can **connect to the camera**.
 
-Download, install and run [VLC](https://www.videolan.org) on your PC: 
+Download, install and run [VLC](https://www.videolan.org) on the computer: 
  
 <img width="266" alt="yi14" src="https://github.com/Einar-Vaagland/yi_action_cam_rtsp_fullhd/assets/163604084/a9112188-8935-4e28-93eb-d4b9db87d8f0">
 
